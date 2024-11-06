@@ -26,4 +26,4 @@ This project aims to answer the following:
 
 - **Python** (v3.8 or higher)
 - **Jupyter Notebook**
-- Required libraries: `pandas`, `matplotlib`, `seaborn`
+- Required libraries: `pandas`, `matplotlib`, `seaborn`, `scikitlearn`
